@@ -7,15 +7,6 @@ namespace PictureGrabber
 {
     class Program
     {
-        /// <summary>
-        /// args
-        /// * url
-        /// * filePath
-        /// * intervalInMinutes
-        /// * looping
-        /// 
-        /// http://holfuy.com/en/takeit/cam/s313.jpg
-        /// </summary>
         static void Main(string[] args)
         {
             if (args.Length < 4)
